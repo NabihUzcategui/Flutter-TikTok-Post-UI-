@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![TikTok_Post_UI](https://github.com/NabihUzcategui/Flutter-TikTok-Post-UI-/assets/99839506/4e1822da-51d8-496a-8567-1c76d8ef0b32)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
